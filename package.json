@@ -1,0 +1,14 @@
+{
+  "name": "harness-engineering-lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "harness": "node src/test-harness.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
